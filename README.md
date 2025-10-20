@@ -1,3 +1,4 @@
 # oadelaiye
 Odunayo Adelaiye
-November 9
+Computer Science and Cognitive Psychology
+Class of 2029
